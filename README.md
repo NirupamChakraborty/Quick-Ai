@@ -163,24 +163,6 @@ QuickAI/
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm (v8 or higher)
-- PostgreSQL database (Neon recommended)
-- OpenAI API account
-- Cloudinary account
-- Clerk account
-
-### Installation
-
-1. Clone the repository:
-```console
-git clone https://github.com/elyse502/QuickAI.git
-cd QuickAI
-```
 
 2. Install client dependencies:
 ```console
@@ -269,35 +251,8 @@ cd client && npm run dev
 
 ---
 
-## Deployment
 
-### Frontend (Vercel)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2FQuickAI%2Ftree%2Fmain%2Fclient)
 
-### Backend (Render/Vercel)
-Deploy with environment variables configured for:
-- Neon PostgreSQL database
-- OpenAI API keys
-- Cloudinary credentials
-- Clerk secrets
-
-### Database (Neon)
-```console
-# Recommended: Neon PostgreSQL
-https://neon.tech/
-```
-
----
-
-## Performance
-
-- ⚡ Lighthouse Score: 95+
-- 📦 Optimized Bundle Size
-- 🚀 Fast AI Processing
-- 📱 Mobile Responsive
-- 🔒 Secure Authentication
-
----
 
 ## Contributing
 
@@ -311,38 +266,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## License
-
-Distributed under the ISC License. See [`LICENSE`](https://github.com/elyse502/QuickAI/blob/main/LICENSE) for more information.
-
----
-
-## Support
-
-For support, email _elyseniyibizi502@gmail.com_ or create an issue in the GitHub repository.
-
----
-
-## 📞 Contact
-For any questions or support, please contact:
-- [**NIYIBIZI Elysée**](https://linktr.ee/niyibizi_elysee)👨🏿‍💻 | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse).
-- **Email**: <elyseniyibizi502@gmail.com>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) [![@phenrysay](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niyibizi_Elyse) [![pH-7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502)
-
----
-
-<div align="center">
-
-**QUICKAI** - Supercharge your creativity with AI! 🚀
-
-*Built with ❤️ using the PERN stack and cutting-edge AI technologies.*
-
-**Made with ❤️ by <i>[Elysée NIYIBIZI](https://elyse502.github.io/Elysee-Portfolio/)</i>**
-
-[⬆ Back to Top](#table-of-contents)
-
-</div>
 
 
 
