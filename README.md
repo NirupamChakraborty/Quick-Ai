@@ -19,31 +19,11 @@ AI-Powered Content Generation at Your Fingertips
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
 ## LIVE - DEMO 🌐
-Visit the 👉 [_LINK 🔗_](https://quick-ai-gray-eight.vercel.app/)
+Visit the 👉 [_LINK 🔗_]()
 
 </div>
 
----
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-- [AI Capabilities](#ai-capabilities)
-- [API Endpoints](#api-endpoints)
-- [Deployment](#deployment)
-- [Performance](#performance)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
-
----
 
 ## Overview
 
@@ -160,49 +140,6 @@ QuickAI/
 │   │   └── userRoutes.js
 │   └── server.js         # Server entry point
 ```
-
----
-
-
-2. Install client dependencies:
-```console
-cd client && npm install
-```
-
-3. Install server dependencies:
-```console
-cd ../server && npm install
-```
-
-### Environment Variables
-
-**Client (.env)**
-```console
-VITE_CLERK_PUBLISHABLE_KEY=pk_test_...
-VITE_API_BASE_URL=http://localhost:3000
-```
-
-**Server (.env)**
-```env
-OPENAI_API_KEY=sk-your-openai-key
-CLOUDINARY_CLOUD_NAME=your-cloud-name
-CLOUDINARY_API_KEY=your-api-key
-CLOUDINARY_API_SECRET=your-api-secret
-DATABASE_URL=your-postgres-connection-string
-CLERK_SECRET_KEY=sk_test_...
-PORT=5000
-```
-
-4. Start the development servers:
-```console
-# Terminal 1 - Start backend
-cd server && npm run server
-
-# Terminal 2 - Start frontend
-cd client && npm run dev
-```
-
----
 
 ## AI Capabilities
 
