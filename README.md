@@ -19,7 +19,7 @@ AI-Powered Content Generation at Your Fingertips
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
 ## LIVE - DEMO 🌐
-Visit the 👉 [_LINK 🔗_]()
+Visit the 👉 [_LINK 🔗_](https://quick-ai-client-tau.vercel.app/)
 
 </div>
 
