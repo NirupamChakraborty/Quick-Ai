@@ -10,9 +10,9 @@ const AI = new GoogleGenAI({
   apiKey: process.env.GEMINI_API_KEY,
 });
 
-/* =========================
-   GENERATE ARTICLE
-========================= */
+
+  //  GENERATE ARTICLE
+
 export const generateArticle = async (req, res) => {
   try {
     const { userId } = req.auth();
@@ -54,9 +54,9 @@ export const generateArticle = async (req, res) => {
   }
 };
 
-/* =========================
-   GENERATE BLOG TITLE
-========================= */
+
+  //  GENERATE BLOG TITLE
+
 export const generateBlogTitle = async (req, res) => {
   try {
     const { userId } = req.auth();
@@ -138,9 +138,9 @@ export const generateImage = async (req, res) => {
   }
 };
 
-/* =========================
-   REMOVE IMAGE BACKGROUND
-========================= */
+
+  //  REMOVE IMAGE BACKGROUND 
+
 export const removeImageBackground = async (req, res) => {
   try {
     const { userId } = req.auth();
@@ -167,9 +167,7 @@ export const removeImageBackground = async (req, res) => {
   }
 };
 
-/* =========================
-   REMOVE IMAGE OBJECT
-========================= */
+// remove img object 
 export const removeImageObject = async (req, res) => {
   try {
     const { userId } = req.auth();
@@ -199,9 +197,7 @@ export const removeImageObject = async (req, res) => {
   }
 };
 
-/* =========================
-   RESUME REVIEW
-========================= */
+// resume review
 export const resumeReview = async (req, res) => {
   try {
     const { userId } = req.auth();
