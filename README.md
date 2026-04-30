@@ -186,6 +186,7 @@ QuickAI/
 - Improvement recommendations
 - PDF text extraction
 
+generate all these for different use cases
 ---
 
 ## API Endpoints
