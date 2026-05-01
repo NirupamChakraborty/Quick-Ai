@@ -1,6 +1,6 @@
 <div align="center">
 
-# QUICKAI ⚡
+# QUICK AI ⚡
 
 AI-Powered Content Generation at Your Fingertips
 
