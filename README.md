@@ -163,7 +163,7 @@ QuickAI/
 
 ---
 
-## AI Capabilities
+## AI Capabilities and use cases
 
 ### 🎨 Image Generation
 - Text-to-image conversion using DALL-E
