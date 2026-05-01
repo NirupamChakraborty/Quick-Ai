@@ -23,25 +23,6 @@ Visit the 👉 [_LINK 🔗_](https://quick-ai-client-tau.vercel.app/)
 
 </div>
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-- [AI Capabilities](#ai-capabilities)
-- [API Endpoints](#api-endpoints)
-- [Deployment](#deployment)
-- [Performance](#performance)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
 
 ---
 
